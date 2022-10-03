@@ -1,0 +1,13 @@
+/* #navbar{
+    background-color: blueviolet;
+} */
+
+.navbar{
+    background-color: blueviolet !important;
+}
+
+
+/* unable to overwrite background color on navbar */
+/* .custom-navbar{
+    background-color: aqua !important;
+} */
